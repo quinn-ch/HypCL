@@ -1,0 +1,10 @@
+{
+  "dataset": "aircraft",
+  "initial_classes": 10,
+  "increment": 10,
+  "epochs": 3,
+  "learning_rate": 0.0001,
+  "bandwidth": 1,
+  "prototype_weight": 0.99,
+  "prototype_space": "adapted"
+}

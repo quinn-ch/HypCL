@@ -1,0 +1,10 @@
+{
+  "dataset": "cifar100",
+  "initial_classes": 10,
+  "increment": 10,
+  "epochs": 5,
+  "learning_rate": 0.0002,
+  "bandwidth": 3,
+  "prototype_weight": 0.7,
+  "prototype_space": "base"
+}

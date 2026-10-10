@@ -1,0 +1,10 @@
+{
+  "dataset": "food101",
+  "initial_classes": 10,
+  "increment": 10,
+  "epochs": 5,
+  "learning_rate": 0.0001,
+  "bandwidth": 3,
+  "prototype_weight": 0.45,
+  "prototype_space": "base"
+}

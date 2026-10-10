@@ -1,0 +1,10 @@
+{
+  "dataset": "objectnet",
+  "initial_classes": 20,
+  "increment": 20,
+  "epochs": 5,
+  "learning_rate": 0.0001,
+  "bandwidth": 1,
+  "prototype_weight": 0.95,
+  "prototype_space": "adapted"
+}

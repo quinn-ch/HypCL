@@ -1,0 +1,6 @@
+torch==2.5.1
+torchvision==0.20.1
+open_clip_torch==2.30.0
+timm==1.0.22
+numpy==2.0.2
+Pillow==11.3.0

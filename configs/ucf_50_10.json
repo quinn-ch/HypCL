@@ -1,0 +1,10 @@
+{
+  "dataset": "ucf101",
+  "initial_classes": 50,
+  "increment": 10,
+  "epochs": 8,
+  "learning_rate": 0.0005,
+  "bandwidth": 3,
+  "prototype_weight": 0.85,
+  "prototype_space": "base"
+}

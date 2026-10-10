@@ -1,0 +1,10 @@
+{
+  "dataset": "imagenetr",
+  "initial_classes": 100,
+  "increment": 20,
+  "epochs": 10,
+  "learning_rate": 0.0005,
+  "bandwidth": 5,
+  "prototype_weight": 0.5,
+  "prototype_space": "base"
+}

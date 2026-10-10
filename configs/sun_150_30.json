@@ -1,0 +1,10 @@
+{
+  "dataset": "sun",
+  "initial_classes": 150,
+  "increment": 30,
+  "epochs": 8,
+  "learning_rate": 0.0002,
+  "bandwidth": 3,
+  "prototype_weight": 0.6,
+  "prototype_space": "base"
+}

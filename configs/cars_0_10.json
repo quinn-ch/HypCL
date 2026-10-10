@@ -1,0 +1,10 @@
+{
+  "dataset": "cars",
+  "initial_classes": 10,
+  "increment": 10,
+  "epochs": 3,
+  "learning_rate": 0.0002,
+  "bandwidth": 1,
+  "prototype_weight": 0.9,
+  "prototype_space": "adapted"
+}
